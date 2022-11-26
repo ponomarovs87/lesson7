@@ -95,7 +95,113 @@ div.headeritemlinks>a {
     height: 862px;
     width: 100%;
     top: 95px;
-    background: #299f60;
+}
+
+.image1block1 {
+    position: absolute;
+    width: 759px;
+    height: 529px;
+    left: 614px;
+    top: 151px;
+    right: 4, 65%;
+    bottom: 182px;
+
+    background: url(../images/pic1block1.png);
+}
+
+.text1block1 {
+    position: absolute;
+
+    height: 210px;
+    width: 552px;
+    left: 5.20%;
+    top: 129px;
+    bottom: 523px;
+
+    font-family: 'Graphik LC TT';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 65px;
+    line-height: 70px;
+    color: #000000;
+}
+
+.text2block1 {
+    position: absolute;
+
+    height: 140px;
+    width: 471px;
+    left: 5.20%;
+    top: 390px;
+
+    font-family: 'Graphik LC TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    color: #000000;
+}
+
+.text3block1 {
+    position: absolute;
+
+    height: 25px;
+    width: 369px;
+    left: 5.2%;
+    top: 665px;
+    bottom: 172px;
+
+    font-family: 'Graphik LC TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+.buttonloginbox1{
+    position: absolute;
+    height: 60px;
+    width: 330px;
+    left: 5.2%;
+    top: 580px;
+}
+.tryitfreeblock1 {
+    position: absolute;
+    height: 60px;
+    width: 160px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: 'Graphik LC TT';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 60px;
+
+    justify-content: center;
+    align-items: center;
+
+    color: #FFFFFF;
+    background: #FF6336;
+}
+
+.boockademoblock1 {
+    position: absolute;
+    height: 60px;
+    width: 160px;
+    left: 170px;
+    top: 0px;
+    
+    font-family: 'Graphik LC TT';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 60px;
+
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    
+    justify-content: center;
+    align-items: center;
 }
 
 .secondblock {
