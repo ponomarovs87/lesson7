@@ -160,20 +160,22 @@ div.headeritemlinks>a {
     line-height: 25px;
     color: #000000;
 }
-.buttonloginbox1{
+
+.buttonloginbox1 {
     position: absolute;
     height: 60px;
     width: 330px;
     left: 5.2%;
     top: 580px;
 }
+
 .tryitfreeblock1 {
     position: absolute;
     height: 60px;
     width: 160px;
     left: 0px;
     top: 0px;
-    
+
     font-family: 'Graphik LC TT';
     font-style: normal;
     font-weight: 600;
@@ -193,7 +195,7 @@ div.headeritemlinks>a {
     width: 160px;
     left: 170px;
     top: 0px;
-    
+
     font-family: 'Graphik LC TT';
     font-style: normal;
     font-weight: 600;
@@ -201,7 +203,7 @@ div.headeritemlinks>a {
     line-height: 60px;
 
     border: 1px solid rgba(0, 0, 0, 0.5);
-    
+
     justify-content: center;
     align-items: center;
 }
@@ -213,4 +215,24 @@ div.headeritemlinks>a {
     top: 957px;
 
     background: #FF9C7D;
+}
+
+.text1block2 {
+    position: absolute;
+    height: 120px;
+    width: 720px;
+    left: 25%;
+    right: 25%;
+    top: 108px;
+
+    font-family: 'Graphik LC TT';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 60px;
+
+    justify-content: center;
+    align-items: center;
+
+    color: #000000;
 }
