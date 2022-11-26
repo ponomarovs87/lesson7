@@ -14,6 +14,7 @@ div {
     left: 0%;
     right: 0%;
     top: 0px;
+    border: 1px solid #CCCCCC;
 }
 
 .logogroup {
@@ -32,4 +33,35 @@ div {
     right: 48.83%;
     top: 31px;
     background: rgb(73, 66, 129);
+}
+
+.logitfree {
+    position: absolute;
+    height: 45px;
+    width: 260px;
+    left: 79.09%;
+    right: 3.54%;
+    top: 25px;
+    bottom: 25px;
+}
+
+.login {
+    box-sizing: border-box;
+    position: absolute;
+    height: 45px;
+    width: 120px;
+    left: 0px;
+    right: 130px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 0px;
+}
+
+.tryitfree {
+    position: absolute;
+    height: 45px;
+    width: 120px;
+    left: 130px;
+    right: 0px;
+    background: #FF6336;
+    border-radius: 0px;
 }
