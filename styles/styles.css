@@ -237,3 +237,10 @@ div.headeritemlinks>a {
 
     color: #000000;
 }
+.logoblock2{
+    position: absolute;
+    height: 53px;
+    width: 100%;
+    top: 298px;
+    bottom: 104px;
+}
