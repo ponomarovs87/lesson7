@@ -1,0 +1,31 @@
+div {
+    display: flex
+}
+
+.header {
+    position: fixed;
+    height: 95px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+
+    background: rgb(73, 66, 129);
+}
+
+.logogroup {
+    position: relative;
+    height: 27.760099411010742px;
+    width: 130px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.headeritemlinks {
+    position: relative;
+    height: 40px;
+    width: 1157px;
+    left: 232px;
+    top: 0px;
+    background: rgb(190, 49, 49)
+}
