@@ -14,8 +14,6 @@ div {
     left: 0%;
     right: 0%;
     top: 0px;
-
-    background: rgb(73, 66, 129);
 }
 
 .logogroup {
@@ -24,14 +22,14 @@ div {
     left: 3.54%;
     right: 87.43%;
     top: 34px;
-    background-color: rgb(49, 190, 77)
+
 }
 
 .headeritemlinks {
-    position: relative;
+    position: absolute;
     height: 40px;
-    width: 1157px;
     left: 232px;
-    top: 0px;
-    background: rgb(190, 49, 49)
+    right: 48.83%;
+    top: 31px;
+    background: rgb(73, 66, 129);
 }
