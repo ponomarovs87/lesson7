@@ -4,7 +4,7 @@
     border: 0;
 }
 
-div {
+div,a {
     display: flex;
 }
 
@@ -73,6 +73,8 @@ div.headeritemlinks>a {
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
+    color: #000000;
+    text-decoration: none;
 }
 
 .tryitfree {
@@ -90,6 +92,7 @@ div.headeritemlinks>a {
     font-weight: 600;
     font-size: 16px;
     color: #FFFFFF;
+    text-decoration: none;
 }
 
 .ferstblock {
@@ -187,6 +190,7 @@ div.headeritemlinks>a {
 
     color: #FFFFFF;
     background: #FF6336;
+    text-decoration: none;
 }
 
 .boockademoblock1 {
@@ -206,6 +210,8 @@ div.headeritemlinks>a {
 
     justify-content: center;
     align-items: center;
+    color: #000000;
+    text-decoration: none;
 }
 
 .secondblock {
