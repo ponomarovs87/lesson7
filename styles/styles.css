@@ -1,5 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
 div {
-    display: flex
+    display: flex;
 }
 
 .header {
@@ -13,12 +19,12 @@ div {
 }
 
 .logogroup {
-    position: relative;
-    height: 27.760099411010742px;
-    width: 130px;
-    left: 0px;
-    top: 0px;
-
+    position: absolute;
+    height: 28px;
+    left: 3.54%;
+    right: 87.43%;
+    top: 34px;
+    background-color: rgb(49, 190, 77)
 }
 
 .headeritemlinks {
