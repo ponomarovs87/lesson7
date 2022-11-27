@@ -185,18 +185,12 @@ div.headeritemlinks>a {
     text-decoration: none;
 }
 
-@media (max-width: 1439px) {.secondblock {
-    width: 1440px;
-    height: 455px;
-    top: 957px;
-    background: #FF9C7D;
-}}
-@media (min-width: 1440px) {.secondblock{
+.secondblock{
     width: 100%;
     height: 455px;
     top: 957px;
     background: #FF9C7D;
-}}
+}
 
 .text1block2 {
     height: 120px;
@@ -226,31 +220,31 @@ div.headeritemlinks>a {
 }
 
 .specialized {
-    height: 53.05302429199219px;
-    width: 137.8175506591797px;
+    height: 100%;
+    width: 9.57%;
 }
 
 .virqinmobile {
-    height: 53.70241165161133px;
-    width: 71.45421600341797px;
+    height: 100%;
+    width: 4.96%;
 }
 
 .tidal {
-    height: 21px;
-    width: 150px;
+    height: 39.62%;
+    width: 10.41%;
 }
 
 .revolut {
-    height: 25.039369583129883px;
-    width: 112px;
+    height: 47.22%;
+    width: 7.77%;
 }
 
 .yelp {
-    height: 53.003395080566406px;
-    width: 107px;
+    height: 100%;
+    width: 7.43%;
 }
 
 .Daimler {
-    height: 19px;
-    width: 150px;
+    height: 35.84%;
+    width: 10.41%;
 }
