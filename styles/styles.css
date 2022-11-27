@@ -28,7 +28,7 @@ div.headeritemlinks>a {
     top: 0px;
     z-index: 10;
     background-color: #fff;
-    border: 1px solid #CCCCCC;
+    border-bottom: 1px solid #CCCCCC;
 }
 
 .logogroup {
