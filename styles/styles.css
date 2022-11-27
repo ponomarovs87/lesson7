@@ -34,9 +34,11 @@ div.headeritemlinks>a {
 
 .logogroup {
     height: 28px;
+    width: 130px;
     left: 3.54%;
     right: 87.43%;
     top: 34px;
+    z-index: 10;
 }
 
 .headeritemlinks {
@@ -68,7 +70,7 @@ div.headeritemlinks>a {
     right: 3.54%;
     top: 25px;
     bottom: 25px;
-    z-index: 10;
+    z-index: 9;
 }
 
 .login {
